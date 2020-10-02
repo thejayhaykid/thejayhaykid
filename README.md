@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Jake
 #### I am a senior front end developer
-![I am a senior front end developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+I am a senior front end developer
 
 I am a Software Developer, freelance graphic and logo designer, video editor, web developer by night specializing in sports. I am open to new challenges of any kind but ready to help your team digitally in multiple ways.
 
