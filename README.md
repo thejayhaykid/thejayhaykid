@@ -9,4 +9,7 @@ Skills: React / JS / HTML / CSS / Vue JS / UI/UX Design /
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/thejayhaykid)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/thejayhaykid)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/jakejhayes/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/jks_grfx/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/thejayhaykid)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://jakehayes.net/)  
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=thejayhaykid&show_icons=true)  ![Profile views](https://gpvc.arturio.dev/thejayhaykid)  
+<script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="jakehayes" data-color="#40DCA5" data-emoji=""  data-font="Lato" data-text="Buy me a coffee" data-outline-color="#000000" data-font-color="#ffffff" data-coffee-color="#FFDD00" ></script>
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=thejayhaykid&show_icons=true)
+![Profile views](https://gpvc.arturio.dev/thejayhaykid)  
