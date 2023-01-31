@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is Jake
-#### I am a senior front end developer
+#### I am a Senior Software Engineer
 
 ![Profile views](https://gpvc.arturio.dev/thejayhaykid) 
 
