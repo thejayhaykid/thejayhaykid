@@ -7,7 +7,7 @@ I am a Senior Software Engineer with many other talents specializing in React an
 
 Skills: React / JS / HTML / CSS / TypeScript / Next.js / UI/UX Design / 
 
-🔭 I’m currently working on my blog. 👯 I’m looking to collaborate on really anything 💬 Ask me about Sports Design 📫 How to reach me: https://jakehayes.net/contact 
+🔭 I’m currently working on writing blog posts and single-spa. 💬 Ask me about Sports Design 📫 How to reach me: https://jakehayes.net/contact 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/thejayhaykid)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/thejayhaykid)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/jakejhayes/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/jks_grfx/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/thejayhaykid)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://jakehayes.net/)  
 
