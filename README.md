@@ -1,8 +1,6 @@
 ### Hi there 👋, my name is Jake
 #### I am a Senior Software Engineer
 
-![Profile views](https://gpvc.arturio.dev/thejayhaykid) 
-
 I am a Senior Software Engineer with many other talents specializing in React and other frontend technologies. I am open to new challenges of any kind but ready to help your team digitally in multiple ways.
 
 Skills: React / JS / HTML / CSS / TypeScript / Next.js / UI/UX Design / 
